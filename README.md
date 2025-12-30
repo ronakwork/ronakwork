@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ronakwork
-- 👀 I’m interested in Game Development
-- 🌱 I’m currently learning C# and Unity
+- 👀 I’m interested in Cyber Security
+- 🌱 I’m currently learning BurpSuite!
 - 💞️ I’m looking to collaborate on anything interesting!
 - 📫 How to reach me : call me maybe?
 - 😄 Pronouns: he/him
